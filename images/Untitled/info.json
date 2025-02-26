@@ -1,0 +1,33 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 43,
+    "height" : 18
+  }, {
+    "width" : 85,
+    "height" : 35
+  }, {
+    "width" : 169,
+    "height" : 69
+  }, {
+    "width" : 337,
+    "height" : 137
+  }, {
+    "width" : 673,
+    "height" : 274
+  }, {
+    "width" : 1345,
+    "height" : 548
+  } ],
+  "profile" : "level0",
+  "width" : 1345,
+  "id" : "https://Ashkanaln.github.io/Ashkan/images/Untitled",
+  "type" : "ImageService3",
+  "@context" : "http://iiif.io/api/image/3/context.json",
+  "height" : 548
+}

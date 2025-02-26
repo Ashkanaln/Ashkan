@@ -90,6 +90,87 @@
             ]
         },
         {
+            "id": "https://Ashkanaln.github.io/Ashkan/images/Untitled/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "Untitled"
+                ]
+            },
+            "height": 548,
+            "width": 1345,
+            "items": [
+                {
+                    "id": "https://Ashkanaln.github.io/Ashkan/images/Untitled/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Ashkanaln.github.io/Ashkan/images/Untitled/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Ashkanaln.github.io/Ashkan/images/Untitled/full/max/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 43,
+                                                "height": 18
+                                            },
+                                            {
+                                                "width": 85,
+                                                "height": 35
+                                            },
+                                            {
+                                                "width": 169,
+                                                "height": 69
+                                            },
+                                            {
+                                                "width": 337,
+                                                "height": 137
+                                            },
+                                            {
+                                                "width": 673,
+                                                "height": 274
+                                            },
+                                            {
+                                                "width": 1345,
+                                                "height": 548
+                                            }
+                                        ],
+                                        "profile": "level0",
+                                        "width": 1345,
+                                        "id": "https://Ashkanaln.github.io/Ashkan/images/Untitled",
+                                        "type": "ImageService3",
+                                        "@context": "http://iiif.io/api/image/3/context.json",
+                                        "height": 548
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Ashkanaln.github.io/Ashkan/images/Untitled/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Ashkanaln.github.io/Ashkan/images/1_ycpY0V8zj1XsziqrlvqP7g/canvas/",
             "type": "Canvas",
             "label": {
